@@ -33,7 +33,7 @@ The final output looks like meaningless attribute access chains, making static a
 ### Usage
 ```bash
 pip install pycryptodome
-python longinus.py
+python Longinus.py
 ```
 
 Follow the prompts:
@@ -83,7 +83,7 @@ Do not use it to hide malicious software.
 ### 使用方法
 ```bash
 pip install pycryptodome
-python longinus.py
+python Longinus.py
 ```
 
 按提示操作：
