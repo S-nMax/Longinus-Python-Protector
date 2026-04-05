@@ -105,4 +105,4 @@ xyz.KLMN.QRST.UVWX.___
 ---
 
 ## License
-MIT License
+GNU AFFERO GENERAL PUBLIC LICENSE
