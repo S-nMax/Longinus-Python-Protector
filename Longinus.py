@@ -1,3 +1,4 @@
+"""
 /*
  * [Longinus.py]
  * [A Python code protector based on a pure Python Marshal bytecode protection scheme]
@@ -17,6 +18,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  */
+"""
 
 """
 Longinus
