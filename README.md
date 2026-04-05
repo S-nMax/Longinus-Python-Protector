@@ -1,5 +1,5 @@
 # Longinus 🛡️  
-*Advanced Python Code Obfuscator & Protector*
+*Python Code Obfuscator & Protector*
 
 [中文](#chinese) | [English](#english)
 
